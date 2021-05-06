@@ -1,0 +1,34 @@
+{
+
+    "ABC" : [
+    {
+            "mapName" : "testMap1",
+            "zoneName" : "zoneName1",
+            "startTime" : 10000,
+            "endTime" : 100000,
+            "areaCleaned" : 9,
+            "percentage" : 100,
+            "obstacleDetected" : 0,
+            "userName" : "testName"
+    },
+     {
+            "mapName" : "testMap1",
+            "zoneName" : "zoneName1",
+            "startTime" : 10000,
+            "endTime" : 100000,
+            "areaCleaned" : 9,
+            "percentage" : 100,
+            "obstacleDetected" : 0,
+            "userName" : "testName"
+    },
+    {
+            "mapName" : "testMap1",
+            "zoneName" : "zoneName1",
+            "startTime" : 10000,
+            "endTime" : 100000,
+            "areaCleaned" : 9,
+            "percentage" : 100,
+            "obstacleDetected" : 0,
+            "userName" : "testName"
+    }]
+}
