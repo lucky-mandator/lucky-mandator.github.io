@@ -1,0 +1,7 @@
+{
+  'robotEncodingId' : 'encodingId',
+  'manufacturingDate' : 10122021,
+  'robotType' : [
+    'name' : 'robotype name'
+  ]
+}
